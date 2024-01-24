@@ -1,3 +1,3 @@
 •	Chacon, S. and Straub, B. Pro Git. Apress.
 •	Loeliger, J. and McCullough, M. Version control with Git. O’Reilly.
-[A[C[C[[A[[[B[A[B
+•	Hodson, R. Ry’s Git Tutorial. Smashwords (2014)
