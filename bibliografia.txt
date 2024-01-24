@@ -1,1 +1,3 @@
-Chacon, S. and Straub, B. Pro Git. Apress.
+•	Scott Chacon and Ben Straub. Pro Git. Apress.
+•	Ryan Hodson. Ry’s Git Tutorial. Smashwords (2014)
+[A[C[C[C[C[C[A[[B[B[B[A[F[B[B[B[B
